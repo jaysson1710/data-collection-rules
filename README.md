@@ -2,7 +2,7 @@
 
 Disponible solo para VM, otras nubes o onpremise se usa a traves de Azure ARC
 
-![](images\arch-general.png)
+![](images/arch-general.png)
 
 alta disponibilidad:
 
@@ -31,17 +31,17 @@ tasK
 
 ejecucion de querys para la obtencion de resultados > se ejecutan sobre el workspace
 
-![](images\workspace.png)
+![](images/workspace.png)
 
 ## Limites
 
-![](.\images\limites-dcr.png)
+![](images/limites-dcr.png)
 
 ## Agente instalado
 
 azure monitor
 
-![](.\images\agent.png)
+![](images/agent.png)
 
 
 
